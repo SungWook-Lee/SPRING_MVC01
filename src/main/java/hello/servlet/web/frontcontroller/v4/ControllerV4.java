@@ -6,7 +6,7 @@ public interface ControllerV4 {
 
     /**
      *
-     * @param paraMap
+     * @param paramMap
      * @param model
      * @return
      */
